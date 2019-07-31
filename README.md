@@ -74,10 +74,16 @@ This script output shows:
 
 - the `python.exe` command is now available for use, and can be used to run your .py Python script file (example `script.py` included here)
 
-An example of installing a library into your conda can be run with `install_conda_libraries.bat`; this will install the `pandas` library. You can test that it worked with the `install_conda_libraries_test.bat` script. 
+An example of installing a library into your conda can be run with `install_conda_libraries.bat`; this will install the `pandas` library. You can test that it worked with the `install_conda_libraries_test.bat` script.
 
 # Extras
 
 ### Helpful Software
 
+Better text editor
+
 - Sublime Text 3 Portable: https://download.sublimetext.com/Sublime%20Text%20Build%203207%20x64.zip
+
+Better terminal
+
+- Cmnder: https://cmder.net/ ; https://github.com/cmderdev/cmder/releases/download/v1.3.11/cmder.zip
