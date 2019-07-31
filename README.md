@@ -74,6 +74,8 @@ This script output shows:
 
 - the `python.exe` command is now available for use, and can be used to run your .py Python script file (example `script.py` included here)
 
+An example of installing a library into your conda can be run with `install_conda_libraries.bat`; this will install the `pandas` library. You can test that it worked with the `install_conda_libraries_test.bat` script. 
+
 # Extras
 
 ### Helpful Software

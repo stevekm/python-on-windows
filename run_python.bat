@@ -1,5 +1,5 @@
 setlocal
-SET PATH=%cd%\conda\;%cd%\conda\Scripts\;%PATH%
+SET PATH=%cd%\conda\;%cd%\conda\Scripts\;%cd%\conda\Library\bin\;%PATH%
 echo %PATH%
 where conda
 conda list
