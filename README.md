@@ -1,5 +1,6 @@
 # Python on Windows
-Demo materials for setting up Python on Windows
+
+Demonstration for setting up Python on Windows. 
 
 # Instructions
 
@@ -29,13 +30,13 @@ Initialize your Windows 10 virtual machine with Virtual Box.
 
 ## Software
 
+Required:
+
 - Miniconda: https://repo.continuum.io/miniconda/Miniconda3-4.6.14-Windows-x86_64.exe
 
+Download the Miniconda .exe file and place it next to the `install_conda.bat` file in the current directory.
+
+
+### Optional (Helpful)
+
 - Sublime Text 3 Portable: https://download.sublimetext.com/Sublime%20Text%20Build%203207%20x64.zip
-
-
-Install with command:
-
-```
-start /wait "" Miniconda3-4.6.14-Windows-x86_64.exe /InstallationType=JustMe /AddToPath=0 /RegisterPython=0 /S /D=E:\conda
-```
