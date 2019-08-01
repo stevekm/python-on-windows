@@ -76,6 +76,8 @@ This script output shows:
 
 An example of installing a library into your conda can be run with `install_conda_libraries.bat`; this will install the `pandas` library. You can test that it worked with the `install_conda_libraries_test.bat` script.
 
+The script `interactive.bat` invokes a `cmd.exe` session with the updated `%PATH` values required to run Python and `conda`. This allows you to easily run your Python code and scripts.
+
 # Extras
 
 ### Helpful Software
