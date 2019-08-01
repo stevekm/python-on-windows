@@ -2,6 +2,8 @@
 
 Demonstration for setting up Python on Windows.
 
+These instructions are intended to help set up Python in a "portable" manner on an external drive, such as a flash drive or a shared drive. In this example I use a VM shared drive, but that can be replaced with any external drive. 
+
 # Instructions
 
 ## Windows Setup
